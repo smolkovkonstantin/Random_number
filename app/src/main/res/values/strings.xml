@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Number.R</string>
+    <string name="from">[</string>
+    <string name="to">]</string>
+    <string name="Name_of">Генератор случайных чисел</string>
+    <string name="name_button">Сгенерировать</string>
+    <string name="some_button">Пошёл нахуй</string>
+    <string name="instruction">Введите границы исследуемого отрезка</string>
+</resources>
